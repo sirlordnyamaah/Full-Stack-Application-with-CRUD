@@ -1,3 +1,5 @@
 .env
 DEPLOYMENT.md
-RAILWAY_ENV_VARS.md
+nixpacks.toml
+railway.json
+vercel.json
